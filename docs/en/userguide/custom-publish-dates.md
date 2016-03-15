@@ -1,5 +1,5 @@
 # Custom publish dates
 
-Sometimes to want to write a post now, and have it published automatically, some time in the future.
+Sometimes we may want to write a post now, but have it published some time in the future. The blog module will do this automatically for you.
 
 ![](_images/post-publish-date.png)
